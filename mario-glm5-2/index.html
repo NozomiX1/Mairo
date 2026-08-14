@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+  <title>Super Mario — Web Edition</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="game-wrap">
+    <div id="hud">
+      <div class="hud-item"><span class="hud-label">SCORE</span><span id="score" class="hud-value">000000</span></div>
+      <div class="hud-item"><span class="hud-label">COINS</span><span id="coins" class="hud-value">×00</span></div>
+      <div class="hud-item"><span class="hud-label">WORLD</span><span id="world" class="hud-value">1-1</span></div>
+      <div class="hud-item"><span class="hud-label">TIME</span><span id="time" class="hud-value">400</span></div>
+      <div class="hud-item"><span class="hud-label">LIVES</span><span id="lives" class="hud-value">×3</span></div>
+    </div>
+
+    <div id="canvas-holder">
+      <canvas id="game" width="512" height="480"></canvas>
+
+      <!-- Overlay screens (menu / gameover / win) -->
+      <div id="overlay" class="overlay">
+        <div id="overlay-content">
+          <h1 id="overlay-title">SUPER MARIO</h1>
+          <p id="overlay-sub">Web Edition</p>
+          <div id="overlay-msg" class="overlay-msg"></div>
+          <button id="start-btn" class="btn">▶ START GAME</button>
+          <div class="controls">
+            <p class="controls-title">CONTROLS</p>
+            <p><kbd>←</kbd> <kbd>→</kbd> / <kbd>A</kbd> <kbd>D</kbd> &nbsp; Move</p>
+            <p><kbd>Space</kbd> / <kbd>↑</kbd> / <kbd>W</kbd> &nbsp; Jump</p>
+            <p><kbd>Shift</kbd> &nbsp; Run / Fireball (when Fire Mario)</p>
+            <p><kbd>P</kbd> Pause &nbsp;·&nbsp; <kbd>R</kbd> Restart</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div id="mobile-pad" class="touch-only">
+      <div class="pad-left">
+        <button class="tbtn" data-key="left">◀</button>
+        <button class="tbtn" data-key="right">▶</button>
+        <button class="tbtn tbtn-run" data-key="run">B</button>
+      </div>
+      <div class="pad-right">
+        <button class="tbtn tbtn-jump" data-key="jump">A</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="game.js"></script>
+</body>
+</html>
