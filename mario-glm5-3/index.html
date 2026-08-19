@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<title>Super Mario Bros. · Web 复刻版</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body { height: 100%; background: #000; overflow: hidden; }
+  body { display: flex; flex-direction: column; align-items: center; justify-content: center;
+         font-family: "Press Start 2P", monospace; user-select: none; -webkit-user-select: none; }
+  #wrap { position: relative; width: 100%; height: 100%; display: flex; align-items: center; justify-content: center; }
+  canvas#screen {
+    image-rendering: pixelated; image-rendering: crisp-edges;
+    width: auto; height: auto;
+    max-width: 100vw; max-height: 100vh;
+    aspect-ratio: 256 / 240;
+    background: #000;
+    touch-action: none;
+  }
+  #hint { position: fixed; bottom: 6px; left: 0; right: 0; text-align: center;
+          color: #9a9a9a; font-size: 9px; letter-spacing: 1px; pointer-events: none;
+          text-shadow: 1px 1px 0 #000; z-index: 5; }
+  /* 触屏按键（仅触摸设备显示） */
+  .touch { display: none; }
+  @media (pointer: coarse) {
+    .touch { display: flex; position: fixed; bottom: 18px; z-index: 10; gap: 10px; }
+    #padL { left: 16px; } #padR { right: 16px; }
+    #hint { display: none; }
+    canvas#screen { max-height: 78vh; }
+  }
+  .tbtn { width: 58px; height: 58px; border-radius: 50%; background: rgba(255,255,255,.14);
+          border: 2px solid rgba(255,255,255,.35); color: rgba(255,255,255,.75);
+          font-family: inherit; font-size: 16px; align-items: center; justify-content: center;
+          touch-action: none; }
+  .tbtn:active { background: rgba(255,255,255,.32); }
+</style>
+</head>
+<body>
+<div id="wrap"><canvas id="screen" width="256" height="240"></canvas></div>
+<div id="hint">←→ 移动 &nbsp;·&nbsp; Z/空格 跳跃 &nbsp;·&nbsp; X/Shift 加速·火球 &nbsp;·&nbsp; ↓ 蹲下/进水管 &nbsp;·&nbsp; P 暂停 &nbsp;·&nbsp; M 静音 &nbsp;·&nbsp; Enter 开始</div>
+<div class="touch" id="padL">
+  <div class="tbtn" data-k="left">◀</div>
+  <div class="tbtn" data-k="down">▼</div>
+  <div class="tbtn" data-k="right">▶</div>
+</div>
+<div class="touch" id="padR">
+  <div class="tbtn" data-k="run">B</div>
+  <div class="tbtn" data-k="jump">A</div>
+</div>
+<script src="js/sprites.js"></script>
+<script src="js/audio.js"></script>
+<script src="js/level.js"></script>
+<script src="js/entities.js"></script>
+<script src="js/game.js"></script>
+</body>
+</html>

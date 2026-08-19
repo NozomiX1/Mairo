@@ -1,0 +1,224 @@
+=== goomba (16x16) ===
+                
+      BBBB      
+    BBBBBBBB    
+   BBBBBBBBBB   
+  BBWWBBBBWWBB  
+ B#WWWBBBBWWW#B 
+ B#WWWBBBBWWW#B 
+BB#WWWBBBBWWW#BB
+BBBBBBBBBBBBBBBB
+BBBBBBBBBBBBBBBB
+ BBBBBBBBBBBBBB 
+  cccccccccccc  
+  cccccccccccc  
+ #####c  c##### 
+ #####    ##### 
+  ###      ###  
+
+=== goombaFlat (16x16) ===
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+  BBBBBBBBBBBB  
+ BBWWBBBBBBWWBB 
+BB#WWBBBBBBWW#BB
+BBBBBBBBBBBBBBBB
+ #cccccccccccc# 
+ ############## 
+
+=== koopa1 (16x24) ===
+          ccc   
+         ccccc  
+         cW#cc  
+         ccccc  
+          ccc   
+   gggggg cc    
+  ggggggggcc    
+ ggGggGggGgg    
+ gGGggGGggGg    
+ gGggGGggGGg    
+ ggGggGGggGg    
+ gGGggGGggGg    
+ ggGggGGggGg    
+ gGGggGGggGg    
+ ggGggGGggGg    
+  ggGGggGGgg    
+  gggggggggg    
+ WWWWWWWWWWWW   
+  ccc    ccc    
+  ccc    ccc    
+  ccc    ccc    
+ cccc    cccc   
+ ccc      ccc   
+                
+
+=== shell (16x16) ===
+                
+                
+    gggggggg    
+  gggggggggggg  
+ ggGggGggGggGgg 
+ gGGggGGggGGgg  
+ gGggGGggGGggG  
+ ggGggGGggGGgg  
+ gGGggGGggGGgg  
+ ggGggGGggGGgg  
+  gggggggggggg  
+ WWWWWWWWWWWWWW 
+  WWWWWWWWWWWW  
+  WWWWWWWWWWWW  
+                
+                
+
+=== shellWake (16x16) ===
+                
+                
+    gggggggg    
+  gggggggggggg  
+ ggGggGggGggGgg 
+ gGGggGGggGGgg  
+ gGggGGggGGggG  
+ ggGggGGggGGgg  
+ gGGggGGggGGgg  
+ ggGggGGggGGgg  
+  gggggggggggg  
+ WWWWWWWWWWWWWW 
+  WWWWWWWWWWWW  
+   cc  cc  cc   
+   cc  cc  cc   
+                
+
+=== mushroom (16x16) ===
+                
+                
+     rrrrrr     
+   rrrWWWWrrr   
+  rrrWWWWWWrrr  
+ rrrrWWWWWWrrrr 
+ WWrrWWWWWWrrWW 
+WWWWrrWWWWrrWWWW
+WWWWrrrrrrrrWWWW
+ WWrrrrrrrrrrWW 
+  cccccccccccc  
+  cc#cccccc#cc  
+  cc#cccccc#cc  
+  cccccccccccc  
+   cccccccccc   
+    cccccccc    
+
+=== mushroom:oneup (16x16) ===
+                
+                
+     gggggg     
+   gggWWWWggg   
+  gggWWWWWWggg  
+ ggggWWWWWWgggg 
+ WWggWWWWWWggWW 
+WWWWggWWWWggWWWW
+WWWWggggggggWWWW
+ WWggggggggggWW 
+  cccccccccccc  
+  cc#cccccc#cc  
+  cc#cccccc#cc  
+  cccccccccccc  
+   cccccccccc   
+    cccccccc    
+
+=== flower (16x16) ===
+                
+    OOOOOOOO    
+   OOOWWWWOOO   
+   OOWWWWWWOO   
+   OOWWWWWWOO   
+   OOOWWWWOOO   
+    OOOOOOOO    
+       gg       
+  GGG  gg  GGG  
+ GGGGG gg GGGGG 
+ GGGGG gg GGGGG 
+  GGGG gg GGGG  
+    GG gg GG    
+       gg       
+       gg       
+       gg       
+
+=== flower:alt (16x16) ===
+                
+    yyyyyyyy    
+   yyyWWWWyyy   
+   yyWWWWWWyy   
+   yyWWWWWWyy   
+   yyyWWWWyyy   
+    yyyyyyyy    
+       gg       
+  GGG  gg  GGG  
+ GGGGG gg GGGGG 
+ GGGGG gg GGGGG 
+  GGGG gg GGGG  
+    GG gg GG    
+       gg       
+       gg       
+       gg       
+
+=== starItem (16x16) ===
+                
+       YY       
+       YY       
+  YYYYYYYYYYYY  
+   YYYYYYYYYY   
+    YYYYYYYY    
+    YY#YY#YY    
+     YYYYYY     
+     YYYYYY     
+    YYYYYYYY    
+   YYYY  YYYY   
+  YYY      YYY  
+  YY        YY  
+                
+                
+                
+
+=== starItem:alt (16x16) ===
+                
+       WW       
+       WW       
+  WWWWWWWWWWWW  
+   WWWWWWWWWW   
+    WWWWWWWW    
+    WW#WW#WW    
+     WWWWWW     
+     WWWWWW     
+    WWWWWWWW    
+   WWWW  WWWW   
+  WWW      WWW  
+  WW        WW  
+                
+                
+                
+
+=== coin1 (16x16) ===
+                
+      oooo      
+     oYYYYo     
+    oYYYYYYo    
+    oYYooYYo    
+    oYYooYYo    
+    oYYooYYo    
+    oYYooYYo    
+    oYYooYYo    
+    oYYooYYo    
+    oYYYYYYo    
+     oYYYYo     
+      oooo      
+                
+                
+                
+

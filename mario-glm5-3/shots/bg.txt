@@ -1,0 +1,544 @@
+=== bgStand (16x32) ===
+                
+     rrrrrr     
+    rrrrrrrrrr  
+    rrrrrrrrrr  
+     bbbssbs    
+    bbssssbsss  
+    bsbsssbsss  
+    bsbbsssbsss 
+    bsbbssssbss 
+    bbsssssbbbb 
+      ssssssss  
+    bbbrrbbb    
+   bbbbrrbbbb   
+  bbbbrrrrbbbb  
+  bbbbrrrrbbbb  
+  bbbrrrrrrbbb  
+  bbbrrrrrrbbb  
+  ssbrrrrrrbss  
+  ssrrrrrrrrss  
+  ssrrrrrrrrss  
+   srrrrrrrrs   
+    rrrrrrrr    
+    rrrrrrrr    
+    rrrrrrrr    
+    rrr  rrr    
+    rrr  rrr    
+    rrr  rrr    
+    rrr  rrr    
+    rrr  rrr    
+   bbbb  bbbb   
+  bbbbb  bbbbb  
+   bbb    bbb   
+
+=== bgStand:fire (16x32) ===
+                
+     WWWWWW     
+    WWWWWWWWWW  
+    WWWWWWWWWW  
+     rrrssrs    
+    rrssssrsss  
+    rsrsssrsss  
+    rsrrsssrsss 
+    rsrrssssrss 
+    rrsssssrrrr 
+      ssssssss  
+    rrrWWrrr    
+   rrrrWWrrrr   
+  rrrrWWWWrrrr  
+  rrrrWWWWrrrr  
+  rrrWWWWWWrrr  
+  rrrWWWWWWrrr  
+  ssrWWWWWWrss  
+  ssWWWWWWWWss  
+  ssWWWWWWWWss  
+   sWWWWWWWWs   
+    WWWWWWWW    
+    WWWWWWWW    
+    WWWWWWWW    
+    WWW  WWW    
+    WWW  WWW    
+    WWW  WWW    
+    WWW  WWW    
+    WWW  WWW    
+   rrrr  rrrr   
+  rrrrr  rrrrr  
+   rrr    rrr   
+
+=== bgStand:starA (16x32) ===
+                
+     yyyyyy     
+    yyyyyyyyyy  
+    yyyyyyyyyy  
+     gggWWgW    
+    ggWWWWgWWW  
+    gWgWWWgWWW  
+    gWggWWWgWWW 
+    gWggWWWWgWW 
+    ggWWWWWgggg 
+      WWWWWWWW  
+    gggyyggg    
+   ggggyygggg   
+  ggggyyyygggg  
+  ggggyyyygggg  
+  gggyyyyyyggg  
+  gggyyyyyyggg  
+  WWgyyyyyygWW  
+  WWyyyyyyyyWW  
+  WWyyyyyyyyWW  
+   WyyyyyyyyW   
+    yyyyyyyy    
+    yyyyyyyy    
+    yyyyyyyy    
+    yyy  yyy    
+    yyy  yyy    
+    yyy  yyy    
+    yyy  yyy    
+    yyy  yyy    
+   gggg  gggg   
+  ggggg  ggggg  
+   ggg    ggg   
+
+=== bgStand:starB (16x32) ===
+                
+     gggggg     
+    gggggggggg  
+    gggggggggg  
+     rrrWWrW    
+    rrWWWWrWWW  
+    rWrWWWrWWW  
+    rWrrWWWrWWW 
+    rWrrWWWWrWW 
+    rrWWWWWrrrr 
+      WWWWWWWW  
+    rrrggrrr    
+   rrrrggrrrr   
+  rrrrggggrrrr  
+  rrrrggggrrrr  
+  rrrggggggrrr  
+  rrrggggggrrr  
+  WWrggggggrWW  
+  WWggggggggWW  
+  WWggggggggWW  
+   WggggggggW   
+    gggggggg    
+    gggggggg    
+    gggggggg    
+    ggg  ggg    
+    ggg  ggg    
+    ggg  ggg    
+    ggg  ggg    
+    ggg  ggg    
+   rrrr  rrrr   
+  rrrrr  rrrrr  
+   rrr    rrr   
+
+=== bgWalk1 (16x32) ===
+                
+     rrrrrr     
+    rrrrrrrrrr  
+    rrrrrrrrrr  
+     bbbssbs    
+    bbssssbsss  
+    bsbsssbsss  
+    bsbbsssbsss 
+    bsbbssssbss 
+    bbsssssbbbb 
+      ssssssss  
+    bbbrrbbbss  
+   bbbbrrbbbss  
+  bbbbrrrrbbss  
+  bbbbrrrrbbbss 
+  bbbrrrrrrbbss 
+  bbbrrrrrrbbb  
+  ssbrrrrrrbbb  
+  ssrrrrrrrr    
+   srrrrrrrr    
+    rrrrrrrr    
+    rrrrrrrr    
+    rrrrrrrr    
+   rrrr rrrr    
+   rrrr  rrrr   
+  rrrr   rrrr   
+  rrr     rrr   
+  rrr     rrr   
+ rrrr     rrr   
+ bbbb     bbbb  
+bbbbb     bbbbb 
+bbbb       bbb  
+
+=== bgWalk1:fire (16x32) ===
+                
+     WWWWWW     
+    WWWWWWWWWW  
+    WWWWWWWWWW  
+     rrrssrs    
+    rrssssrsss  
+    rsrsssrsss  
+    rsrrsssrsss 
+    rsrrssssrss 
+    rrsssssrrrr 
+      ssssssss  
+    rrrWWrrrss  
+   rrrrWWrrrss  
+  rrrrWWWWrrss  
+  rrrrWWWWrrrss 
+  rrrWWWWWWrrss 
+  rrrWWWWWWrrr  
+  ssrWWWWWWrrr  
+  ssWWWWWWWW    
+   sWWWWWWWW    
+    WWWWWWWW    
+    WWWWWWWW    
+    WWWWWWWW    
+   WWWW WWWW    
+   WWWW  WWWW   
+  WWWW   WWWW   
+  WWW     WWW   
+  WWW     WWW   
+ WWWW     WWW   
+ rrrr     rrrr  
+rrrrr     rrrrr 
+rrrr       rrr  
+
+=== bgWalk1:starA (16x32) ===
+                
+     yyyyyy     
+    yyyyyyyyyy  
+    yyyyyyyyyy  
+     gggWWgW    
+    ggWWWWgWWW  
+    gWgWWWgWWW  
+    gWggWWWgWWW 
+    gWggWWWWgWW 
+    ggWWWWWgggg 
+      WWWWWWWW  
+    gggyygggWW  
+   ggggyygggWW  
+  ggggyyyyggWW  
+  ggggyyyygggWW 
+  gggyyyyyyggWW 
+  gggyyyyyyggg  
+  WWgyyyyyyggg  
+  WWyyyyyyyy    
+   Wyyyyyyyy    
+    yyyyyyyy    
+    yyyyyyyy    
+    yyyyyyyy    
+   yyyy yyyy    
+   yyyy  yyyy   
+  yyyy   yyyy   
+  yyy     yyy   
+  yyy     yyy   
+ yyyy     yyy   
+ gggg     gggg  
+ggggg     ggggg 
+gggg       ggg  
+
+=== bgWalk1:starB (16x32) ===
+                
+     gggggg     
+    gggggggggg  
+    gggggggggg  
+     rrrWWrW    
+    rrWWWWrWWW  
+    rWrWWWrWWW  
+    rWrrWWWrWWW 
+    rWrrWWWWrWW 
+    rrWWWWWrrrr 
+      WWWWWWWW  
+    rrrggrrrWW  
+   rrrrggrrrWW  
+  rrrrggggrrWW  
+  rrrrggggrrrWW 
+  rrrggggggrrWW 
+  rrrggggggrrr  
+  WWrggggggrrr  
+  WWgggggggg    
+   Wgggggggg    
+    gggggggg    
+    gggggggg    
+    gggggggg    
+   gggg gggg    
+   gggg  gggg   
+  gggg   gggg   
+  ggg     ggg   
+  ggg     ggg   
+ gggg     ggg   
+ rrrr     rrrr  
+rrrrr     rrrrr 
+rrrr       rrr  
+
+=== bgJump (16x32) ===
+          sss   
+     rrrrrsss   
+    rrrrrrrrss  
+    rrrrrrrrr   
+     bbbssbs    
+    bbssssbsss  
+    bsbsssbsss  
+    bsbbsssbsss 
+    bsbbssssbss 
+    bbsssssbbbb 
+      ssssssss  
+   bbbbrrbbb    
+  bbbbbrrbbbb   
+ bbbbbbrrrrbb   
+ ssbbbrrrrrrb   
+ ssbbrrrrrrrrr  
+ ssbrrrrrrrrrr  
+  bbrrrrrrrrr   
+   rrrrrrrrrr   
+   rrrrrrrrr    
+   rrrrrrrrr    
+  rrrrrr rrrr   
+  rrrrr  rrrr   
+  rrrr   rrrr   
+ rrrr     rrr   
+ rrr      rrrr  
+ rrr      rrrr  
+ bbbb      rrr  
+bbbbb     bbbb  
+bbbb      bbbbb 
+          bbbb  
+          bbb   
+
+=== bgJump:fire (16x32) ===
+          sss   
+     WWWWWsss   
+    WWWWWWWWss  
+    WWWWWWWWW   
+     rrrssrs    
+    rrssssrsss  
+    rsrsssrsss  
+    rsrrsssrsss 
+    rsrrssssrss 
+    rrsssssrrrr 
+      ssssssss  
+   rrrrWWrrr    
+  rrrrrWWrrrr   
+ rrrrrrWWWWrr   
+ ssrrrWWWWWWr   
+ ssrrWWWWWWWWW  
+ ssrWWWWWWWWWW  
+  rrWWWWWWWWW   
+   WWWWWWWWWW   
+   WWWWWWWWW    
+   WWWWWWWWW    
+  WWWWWW WWWW   
+  WWWWW  WWWW   
+  WWWW   WWWW   
+ WWWW     WWW   
+ WWW      WWWW  
+ WWW      WWWW  
+ rrrr      WWW  
+rrrrr     rrrr  
+rrrr      rrrrr 
+          rrrr  
+          rrr   
+
+=== bgJump:starA (16x32) ===
+          WWW   
+     yyyyyWWW   
+    yyyyyyyyWW  
+    yyyyyyyyy   
+     gggWWgW    
+    ggWWWWgWWW  
+    gWgWWWgWWW  
+    gWggWWWgWWW 
+    gWggWWWWgWW 
+    ggWWWWWgggg 
+      WWWWWWWW  
+   ggggyyggg    
+  gggggyygggg   
+ ggggggyyyygg   
+ WWgggyyyyyyg   
+ WWggyyyyyyyyy  
+ WWgyyyyyyyyyy  
+  ggyyyyyyyyy   
+   yyyyyyyyyy   
+   yyyyyyyyy    
+   yyyyyyyyy    
+  yyyyyy yyyy   
+  yyyyy  yyyy   
+  yyyy   yyyy   
+ yyyy     yyy   
+ yyy      yyyy  
+ yyy      yyyy  
+ gggg      yyy  
+ggggg     gggg  
+gggg      ggggg 
+          gggg  
+          ggg   
+
+=== bgJump:starB (16x32) ===
+          WWW   
+     gggggWWW   
+    ggggggggWW  
+    ggggggggg   
+     rrrWWrW    
+    rrWWWWrWWW  
+    rWrWWWrWWW  
+    rWrrWWWrWWW 
+    rWrrWWWWrWW 
+    rrWWWWWrrrr 
+      WWWWWWWW  
+   rrrrggrrr    
+  rrrrrggrrrr   
+ rrrrrrggggrr   
+ WWrrrggggggr   
+ WWrrggggggggg  
+ WWrgggggggggg  
+  rrggggggggg   
+   gggggggggg   
+   ggggggggg    
+   ggggggggg    
+  gggggg gggg   
+  ggggg  gggg   
+  gggg   gggg   
+ gggg     ggg   
+ ggg      gggg  
+ ggg      gggg  
+ rrrr      ggg  
+rrrrr     rrrr  
+rrrr      rrrrr 
+          rrrr  
+          rrr   
+
+=== bgCrouch (16x32) ===
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+     rrrrrr     
+    rrrrrrrrrr  
+    rrrrrrrrrr  
+     bbbssbs    
+    bbssssbsss  
+    bsbsssbsss  
+    bsbbssssbss 
+    bbsssssbbbb 
+      ssssssss  
+   bbbbrrbbbb   
+  bbbbrrrrbbbb  
+  bbbrrrrrrbbb  
+  ssbrrrrrrbss  
+  ssrrrrrrrrss  
+   rrrrrrrrrr   
+   rrrrrrrrrr   
+   rrrr  rrrr   
+  bbbbb  bbbbb  
+  bbbbb  bbbbb  
+   bbb    bbb   
+
+=== bgCrouch:fire (16x32) ===
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+     WWWWWW     
+    WWWWWWWWWW  
+    WWWWWWWWWW  
+     rrrssrs    
+    rrssssrsss  
+    rsrsssrsss  
+    rsrrssssrss 
+    rrsssssrrrr 
+      ssssssss  
+   rrrrWWrrrr   
+  rrrrWWWWrrrr  
+  rrrWWWWWWrrr  
+  ssrWWWWWWrss  
+  ssWWWWWWWWss  
+   WWWWWWWWWW   
+   WWWWWWWWWW   
+   WWWW  WWWW   
+  rrrrr  rrrrr  
+  rrrrr  rrrrr  
+   rrr    rrr   
+
+=== bgCrouch:starA (16x32) ===
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+     yyyyyy     
+    yyyyyyyyyy  
+    yyyyyyyyyy  
+     gggWWgW    
+    ggWWWWgWWW  
+    gWgWWWgWWW  
+    gWggWWWWgWW 
+    ggWWWWWgggg 
+      WWWWWWWW  
+   ggggyygggg   
+  ggggyyyygggg  
+  gggyyyyyyggg  
+  WWgyyyyyygWW  
+  WWyyyyyyyyWW  
+   yyyyyyyyyy   
+   yyyyyyyyyy   
+   yyyy  yyyy   
+  ggggg  ggggg  
+  ggggg  ggggg  
+   ggg    ggg   
+
+=== bgCrouch:starB (16x32) ===
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+     gggggg     
+    gggggggggg  
+    gggggggggg  
+     rrrWWrW    
+    rrWWWWrWWW  
+    rWrWWWrWWW  
+    rWrrWWWWrWW 
+    rrWWWWWrrrr 
+      WWWWWWWW  
+   rrrrggrrrr   
+  rrrrggggrrrr  
+  rrrggggggrrr  
+  WWrggggggrWW  
+  WWggggggggWW  
+   gggggggggg   
+   gggggggggg   
+   gggg  gggg   
+  rrrrr  rrrrr  
+  rrrrr  rrrrr  
+   rrr    rrr   
+

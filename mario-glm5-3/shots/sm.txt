@@ -1,0 +1,576 @@
+=== smStand (16x16) ===
+                
+     rrrrr      
+    rrrrrrrrr   
+    bbbssbs     
+   bsbsssbsss   
+   bsbbsssbsss  
+   bbssssbbbb   
+     sssssss    
+    bbrrbb      
+   bbbrrbbb     
+  bbbbrrrrbbbb  
+  ssbrrrrrrbss  
+  ssrrrrrrrrss  
+    rrr  rrr    
+   bbb    bbb   
+  bbbb    bbbb  
+
+=== smStand:fire (16x16) ===
+                
+     WWWWW      
+    WWWWWWWWW   
+    rrrssrs     
+   rsrsssrsss   
+   rsrrsssrsss  
+   rrssssrrrr   
+     sssssss    
+    rrWWrr      
+   rrrWWrrr     
+  rrrrWWWWrrrr  
+  ssrWWWWWWrss  
+  ssWWWWWWWWss  
+    WWW  WWW    
+   rrr    rrr   
+  rrrr    rrrr  
+
+=== smStand:starA (16x16) ===
+                
+     yyyyy      
+    yyyyyyyyy   
+    gggWWgW     
+   gWgWWWgWWW   
+   gWggWWWgWWW  
+   ggWWWWgggg   
+     WWWWWWW    
+    ggyygg      
+   gggyyggg     
+  ggggyyyygggg  
+  WWgyyyyyygWW  
+  WWyyyyyyyyWW  
+    yyy  yyy    
+   ggg    ggg   
+  gggg    gggg  
+
+=== smStand:starB (16x16) ===
+                
+     ggggg      
+    ggggggggg   
+    rrrWWrW     
+   rWrWWWrWWW   
+   rWrrWWWrWWW  
+   rrWWWWrrrr   
+     WWWWWWW    
+    rrggrr      
+   rrrggrrr     
+  rrrrggggrrrr  
+  WWrggggggrWW  
+  WWggggggggWW  
+    ggg  ggg    
+   rrr    rrr   
+  rrrr    rrrr  
+
+=== smWalk1 (16x16) ===
+                
+     rrrrr      
+    rrrrrrrrr   
+    bbbssbs     
+   bsbsssbsss   
+   bsbbsssbsss  
+   bbssssbbbb   
+     sssssss    
+    bbrrbbbss   
+   bbbrrbbbss   
+  bbbbrrrrbbss  
+  ssbrrrrrrbb   
+  ssrrrrrrrr    
+   rrrr rrrr    
+  bbb    bbbb   
+ bbbb     bbb   
+
+=== smWalk1:fire (16x16) ===
+                
+     WWWWW      
+    WWWWWWWWW   
+    rrrssrs     
+   rsrsssrsss   
+   rsrrsssrsss  
+   rrssssrrrr   
+     sssssss    
+    rrWWrrrss   
+   rrrWWrrrss   
+  rrrrWWWWrrss  
+  ssrWWWWWWrr   
+  ssWWWWWWWW    
+   WWWW WWWW    
+  rrr    rrrr   
+ rrrr     rrr   
+
+=== smWalk1:starA (16x16) ===
+                
+     yyyyy      
+    yyyyyyyyy   
+    gggWWgW     
+   gWgWWWgWWW   
+   gWggWWWgWWW  
+   ggWWWWgggg   
+     WWWWWWW    
+    ggyygggWW   
+   gggyygggWW   
+  ggggyyyyggWW  
+  WWgyyyyyygg   
+  WWyyyyyyyy    
+   yyyy yyyy    
+  ggg    gggg   
+ gggg     ggg   
+
+=== smWalk1:starB (16x16) ===
+                
+     ggggg      
+    ggggggggg   
+    rrrWWrW     
+   rWrWWWrWWW   
+   rWrrWWWrWWW  
+   rrWWWWrrrr   
+     WWWWWWW    
+    rrggrrrWW   
+   rrrggrrrWW   
+  rrrrggggrrWW  
+  WWrggggggrr   
+  WWgggggggg    
+   gggg gggg    
+  rrr    rrrr   
+ rrrr     rrr   
+
+=== smWalk2 (16x16) ===
+                
+     rrrrr      
+    rrrrrrrrr   
+    bbbssbs     
+   bsbsssbsss   
+   bsbbsssbsss  
+   bbssssbbbb   
+     sssssss    
+    bbrrbb      
+   bbbrrbbb     
+   bbbrrrrbb    
+   ssrrrrrrss   
+   ssrrrrrrss   
+    rrrrrr      
+    bbbb        
+   bbbb         
+
+=== smWalk2:fire (16x16) ===
+                
+     WWWWW      
+    WWWWWWWWW   
+    rrrssrs     
+   rsrsssrsss   
+   rsrrsssrsss  
+   rrssssrrrr   
+     sssssss    
+    rrWWrr      
+   rrrWWrrr     
+   rrrWWWWrr    
+   ssWWWWWWss   
+   ssWWWWWWss   
+    WWWWWW      
+    rrrr        
+   rrrr         
+
+=== smWalk2:starA (16x16) ===
+                
+     yyyyy      
+    yyyyyyyyy   
+    gggWWgW     
+   gWgWWWgWWW   
+   gWggWWWgWWW  
+   ggWWWWgggg   
+     WWWWWWW    
+    ggyygg      
+   gggyyggg     
+   gggyyyygg    
+   WWyyyyyyWW   
+   WWyyyyyyWW   
+    yyyyyy      
+    gggg        
+   gggg         
+
+=== smWalk2:starB (16x16) ===
+                
+     ggggg      
+    ggggggggg   
+    rrrWWrW     
+   rWrWWWrWWW   
+   rWrrWWWrWWW  
+   rrWWWWrrrr   
+     WWWWWWW    
+    rrggrr      
+   rrrggrrr     
+   rrrggggrr    
+   WWggggggWW   
+   WWggggggWW   
+    gggggg      
+    rrrr        
+   rrrr         
+
+=== smWalk3 (16x16) ===
+                
+     rrrrr      
+    rrrrrrrrr   
+    bbbssbs     
+   bsbsssbsss   
+   bsbbsssbsss  
+   bbssssbbbb   
+     sssssss    
+    bbrrbb      
+   bbbrrbbb     
+  bbbbrrrrbb    
+  ssbrrrrrrr    
+  ssrrrrrrrr    
+     rrrrrr     
+      bbbb      
+     bbbbb      
+
+=== smWalk3:fire (16x16) ===
+                
+     WWWWW      
+    WWWWWWWWW   
+    rrrssrs     
+   rsrsssrsss   
+   rsrrsssrsss  
+   rrssssrrrr   
+     sssssss    
+    rrWWrr      
+   rrrWWrrr     
+  rrrrWWWWrr    
+  ssrWWWWWWW    
+  ssWWWWWWWW    
+     WWWWWW     
+      rrrr      
+     rrrrr      
+
+=== smWalk3:starA (16x16) ===
+                
+     yyyyy      
+    yyyyyyyyy   
+    gggWWgW     
+   gWgWWWgWWW   
+   gWggWWWgWWW  
+   ggWWWWgggg   
+     WWWWWWW    
+    ggyygg      
+   gggyyggg     
+  ggggyyyygg    
+  WWgyyyyyyy    
+  WWyyyyyyyy    
+     yyyyyy     
+      gggg      
+     ggggg      
+
+=== smWalk3:starB (16x16) ===
+                
+     ggggg      
+    ggggggggg   
+    rrrWWrW     
+   rWrWWWrWWW   
+   rWrrWWWrWWW  
+   rrWWWWrrrr   
+     WWWWWWW    
+    rrggrr      
+   rrrggrrr     
+  rrrrggggrr    
+  WWrggggggg    
+  WWgggggggg    
+     gggggg     
+      rrrr      
+     rrrrr      
+
+=== smJump (16x16) ===
+          sss   
+     rrrrrss    
+    rrrrrrrr    
+    bbbssbs     
+   bsbsssbsss   
+   bsbbsssbsss  
+   bbssssbbbb   
+     sssssss    
+  bbbbrrbbb     
+ bbbbbrrrbbbb   
+ ssbbrrrrrbbb   
+ ssbrrrrrrrrr   
+  rrrrrrrrrr    
+ rrrrr  rrrr    
+ bbb     bbbb   
+bbbb      bbb   
+
+=== smJump:fire (16x16) ===
+          sss   
+     WWWWWss    
+    WWWWWWWW    
+    rrrssrs     
+   rsrsssrsss   
+   rsrrsssrsss  
+   rrssssrrrr   
+     sssssss    
+  rrrrWWrrr     
+ rrrrrWWWrrrr   
+ ssrrWWWWWrrr   
+ ssrWWWWWWWWW   
+  WWWWWWWWWW    
+ WWWWW  WWWW    
+ rrr     rrrr   
+rrrr      rrr   
+
+=== smJump:starA (16x16) ===
+          WWW   
+     yyyyyWW    
+    yyyyyyyy    
+    gggWWgW     
+   gWgWWWgWWW   
+   gWggWWWgWWW  
+   ggWWWWgggg   
+     WWWWWWW    
+  ggggyyggg     
+ gggggyyygggg   
+ WWggyyyyyggg   
+ WWgyyyyyyyyy   
+  yyyyyyyyyy    
+ yyyyy  yyyy    
+ ggg     gggg   
+gggg      ggg   
+
+=== smJump:starB (16x16) ===
+          WWW   
+     gggggWW    
+    gggggggg    
+    rrrWWrW     
+   rWrWWWrWWW   
+   rWrrWWWrWWW  
+   rrWWWWrrrr   
+     WWWWWWW    
+  rrrrggrrr     
+ rrrrrgggrrrr   
+ WWrrgggggrrr   
+ WWrggggggggg   
+  gggggggggg    
+ ggggg  gggg    
+ rrr     rrrr   
+rrrr      rrr   
+
+=== smSkid (16x16) ===
+                
+     rrrrr      
+    rrrrrrrrr   
+    bbbssbs     
+   bsbsssbsss   
+   bsbbsssbsss  
+   bbssssbbbb   
+     sssssss    
+   ssbbrrbb     
+  ssbbbrrbbb    
+  ssbbrrrrbbbb  
+   bbrrrrrrbss  
+    rrrrrrrrss  
+    rrr  rrr    
+   bbb   bbbb   
+  bbbb    bbb   
+
+=== smSkid:fire (16x16) ===
+                
+     WWWWW      
+    WWWWWWWWW   
+    rrrssrs     
+   rsrsssrsss   
+   rsrrsssrsss  
+   rrssssrrrr   
+     sssssss    
+   ssrrWWrr     
+  ssrrrWWrrr    
+  ssrrWWWWrrrr  
+   rrWWWWWWrss  
+    WWWWWWWWss  
+    WWW  WWW    
+   rrr   rrrr   
+  rrrr    rrr   
+
+=== smSkid:starA (16x16) ===
+                
+     yyyyy      
+    yyyyyyyyy   
+    gggWWgW     
+   gWgWWWgWWW   
+   gWggWWWgWWW  
+   ggWWWWgggg   
+     WWWWWWW    
+   WWggyygg     
+  WWgggyyggg    
+  WWggyyyygggg  
+   ggyyyyyygWW  
+    yyyyyyyyWW  
+    yyy  yyy    
+   ggg   gggg   
+  gggg    ggg   
+
+=== smSkid:starB (16x16) ===
+                
+     ggggg      
+    ggggggggg   
+    rrrWWrW     
+   rWrWWWrWWW   
+   rWrrWWWrWWW  
+   rrWWWWrrrr   
+     WWWWWWW    
+   WWrrggrr     
+  WWrrrggrrr    
+  WWrrggggrrrr  
+   rrggggggrWW  
+    ggggggggWW  
+    ggg  ggg    
+   rrr   rrrr   
+  rrrr    rrr   
+
+=== smDie (16x16) ===
+                
+    rrrrrr      
+   rrrrrrrr     
+   bbssssbb     
+  bsbssssbsb    
+  bsbssssbsb    
+  bbssssssbb    
+   sbbbbbbs     
+ ss  rrrr  ss   
+ ssbrrrrrrbss   
+ ssbrrrrrrbss   
+  bbrrrrrrbb    
+    rrrrrr      
+   rrr  rrr     
+   bbb  bbb     
+  bbbb  bbbb    
+
+=== smDie:fire (16x16) ===
+                
+    WWWWWW      
+   WWWWWWWW     
+   rrssssrr     
+  rsrssssrsr    
+  rsrssssrsr    
+  rrssssssrr    
+   srrrrrrs     
+ ss  WWWW  ss   
+ ssrWWWWWWrss   
+ ssrWWWWWWrss   
+  rrWWWWWWrr    
+    WWWWWW      
+   WWW  WWW     
+   rrr  rrr     
+  rrrr  rrrr    
+
+=== smDie:starA (16x16) ===
+                
+    yyyyyy      
+   yyyyyyyy     
+   ggWWWWgg     
+  gWgWWWWgWg    
+  gWgWWWWgWg    
+  ggWWWWWWgg    
+   WggggggW     
+ WW  yyyy  WW   
+ WWgyyyyyygWW   
+ WWgyyyyyygWW   
+  ggyyyyyygg    
+    yyyyyy      
+   yyy  yyy     
+   ggg  ggg     
+  gggg  gggg    
+
+=== smDie:starB (16x16) ===
+                
+    gggggg      
+   gggggggg     
+   rrWWWWrr     
+  rWrWWWWrWr    
+  rWrWWWWrWr    
+  rrWWWWWWrr    
+   WrrrrrrW     
+ WW  gggg  WW   
+ WWrggggggrWW   
+ WWrggggggrWW   
+  rrggggggrr    
+    gggggg      
+   ggg  ggg     
+   rrr  rrr     
+  rrrr  rrrr    
+
+=== smClimb (16x16) ===
+          ss    
+     rrrrrss    
+    rrrrrrrr    
+    bbbssbs     
+   bsbsssbsss   
+   bsbbsssbsss  
+   bbssssbbbb   
+     sssssss    
+    bbrrbbss    
+   bbbrrbbss    
+   bbrrrrbb     
+   brrrrrrb     
+    rrrrrr      
+    rrr rrr     
+   bbb  bbbb    
+  bbbb          
+
+=== smClimb:fire (16x16) ===
+          ss    
+     WWWWWss    
+    WWWWWWWW    
+    rrrssrs     
+   rsrsssrsss   
+   rsrrsssrsss  
+   rrssssrrrr   
+     sssssss    
+    rrWWrrss    
+   rrrWWrrss    
+   rrWWWWrr     
+   rWWWWWWr     
+    WWWWWW      
+    WWW WWW     
+   rrr  rrrr    
+  rrrr          
+
+=== smClimb:starA (16x16) ===
+          WW    
+     yyyyyWW    
+    yyyyyyyy    
+    gggWWgW     
+   gWgWWWgWWW   
+   gWggWWWgWWW  
+   ggWWWWgggg   
+     WWWWWWW    
+    ggyyggWW    
+   gggyyggWW    
+   ggyyyygg     
+   gyyyyyyg     
+    yyyyyy      
+    yyy yyy     
+   ggg  gggg    
+  gggg          
+
+=== smClimb:starB (16x16) ===
+          WW    
+     gggggWW    
+    gggggggg    
+    rrrWWrW     
+   rWrWWWrWWW   
+   rWrrWWWrWWW  
+   rrWWWWrrrr   
+     WWWWWWW    
+    rrggrrWW    
+   rrrggrrWW    
+   rrggggrr     
+   rggggggr     
+    gggggg      
+    ggg ggg     
+   rrr  rrrr    
+  rrrr          
+

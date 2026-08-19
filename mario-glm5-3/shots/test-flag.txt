@@ -1,0 +1,61 @@
+STATUS state=win room=main power=0 score=20050 coins=0 time=0 lives=3 px=3263 py=193 vx=1.10 vy=0.00 enemies=19 items=0 phase=won flag=done star=0 inv=0 dead=false tiles16_9=? tiles20_9=B
+................................................................
+................................................................
+....W..WWW.W.W......................W..WWW..WW.......W.WW.WW....
+....W.WWWW.WW.......................WWW.WW..W........W.WW.W.....
+.......................Y........................................
+....W..WW.W...W........Y..W.W..........W.W.W..........W.W.W.....
+................................................................
+................................................................
+................................................................
+C...............................................................
+                               D                                
+                             DD                                 
+                              D                                 
+                              D                                 
+                              D                                 
+                              D                                 
+                .WW. WW.W.  .. WW.  W. WWW.W.W W                
+                 WW.WWWWWW   WW.W.  W.WWWW WW. .                
+                              D                                 
+                              D                                 
+                              D                                 
+                YY YY   YY YY Y Y   Y Y   YY YYYY               
+              YY Y YY  YYY Y  D Y   Y    Y  YY YY               
+                              D                                 
+                              D                                 
+                              D                                 
+                              D                                 
+                    .W W.WWWWWD  W.W W WWW W                    
+                     .W W.WWW D W..WW.W. .W.                    
+                              D                                 
+                              D                                 
+                              D                                 
+                              D                                 
+                              D                                 
+                              D                   bb  bb        
+                     cccccc c c  ccc  ccccc       bb  bb        
+                     ccccc       c cc cc cc       bbbbbbbb      
+                              D                   bbb##bbb      
+                              D                   bbb##bbb      
+                              D                   bbb##bbb      
+                              D                   bbbbbbbb      
+                              D                   bbbbbbbb      
+                              D             bb  bb  bb  bb  bb  
+..............................g.............oo..oo..oo..oo..oo..
+..............................g.............yyyyyyyyyyyyyyyyyyyy
+....................ggggC...ggg.............oooooooooooooooooooo
+..................gggggggg.gggg.............oo##ooooo###oooo##oo
+................gggggggggggg.gg.............oo##oooo ###oooo##oo
+...............gggDgggggggDgyyyy............oo##oooo####oooo##oo
+..............ggggggggggggggyooo............oooooooo####oooooooo
+.............CggggggggDgggggyooo............oooooooo####oooooooo
+.............gggggggggggggggyooo............oooooooo####oooooooo
+yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
