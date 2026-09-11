@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+<title>Super Mario - Canvas Edition</title>
+<link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <div id="app">
+    <h1 class="sr-only">Super Mario</h1>
+
+    <div class="console">
+      <div class="hud">
+        <div class="hud-item"><span class="hud-label">MARIO</span><span id="hud-score" class="hud-value">000000</span></div>
+        <div class="hud-item"><span class="hud-label">&#9733;</span><span id="hud-coins" class="hud-value">00</span></div>
+        <div class="hud-item"><span class="hud-label">WORLD</span><span id="hud-world" class="hud-value">1-1</span></div>
+        <div class="hud-item"><span class="hud-label">TIME</span><span id="hud-time" class="hud-value">400</span></div>
+        <div class="hud-item"><span class="hud-label">LIVES</span><span id="hud-lives" class="hud-value">3</span></div>
+      </div>
+
+      <div class="screen-wrap">
+        <canvas id="screen" width="256" height="240"></canvas>
+        <div id="overlay" class="overlay">
+          <div id="overlay-title" class="overlay-title">SUPER MARIO</div>
+          <div id="overlay-body" class="overlay-body"></div>
+        </div>
+        <div id="touch" class="touch">
+          <div class="touch-left">
+            <button class="tbtn" data-key="left" aria-label="left">&#9664;</button>
+            <button class="tbtn" data-key="down" aria-label="down">&#9660;</button>
+            <button class="tbtn" data-key="right" aria-label="right">&#9654;</button>
+          </div>
+          <div class="touch-right">
+            <button class="tbtn tbtn-round" data-key="run" aria-label="run">B</button>
+            <button class="tbtn tbtn-round" data-key="jump" aria-label="jump">A</button>
+          </div>
+        </div>
+      </div>
+
+      <div class="controls">
+        <div class="ctrl-group">
+          <span class="ctrl-key">&#8592; &#8594;</span><span class="ctrl-desc">移动</span>
+          <span class="ctrl-key">&#8595;</span><span class="ctrl-desc">蹲下 / 进水管</span>
+          <span class="ctrl-key">SPACE / Z</span><span class="ctrl-desc">跳跃（按住跳更高）</span>
+          <span class="ctrl-key">SHIFT / X</span><span class="ctrl-desc">奔跑 / 发射火球</span>
+          <span class="ctrl-key">P</span><span class="ctrl-desc">暂停</span>
+          <span class="ctrl-key">ENTER</span><span class="ctrl-desc">开始 / 继续</span>
+          <span class="ctrl-key">M</span><span class="ctrl-desc">静音</span>
+          <span class="ctrl-key">R</span><span class="ctrl-desc">重开本关</span>
+        </div>
+        <div class="tips">
+          吃蘑菇变大、变大后顶碎砖块、踩怪物、踩乌龟变龟壳再踢飞它、
+          吃火花能发射火球、吃星星短时无敌。共 3 关：1-1 地上、1-2 地下（水管可钻）、1-3 水上平台。
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="js/sprites.js"></script>
+  <script src="js/audio.js"></script>
+  <script src="js/levels.js"></script>
+  <script src="js/game.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>

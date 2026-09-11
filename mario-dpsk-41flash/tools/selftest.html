@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>booting</title>
+<link rel="stylesheet" href="../css/style.css" />
+<style>
+  #selftest-out {
+    white-space: pre-wrap;
+    font: 11px/1.5 monospace;
+    color: #d8ffd8;
+    background: #041004;
+    padding: 12px;
+    margin-top: 12px;
+    border: 1px solid #2a5a2a;
+    max-height: 60vh;
+    overflow: auto;
+  }
+</style>
+</head>
+<body>
+  <div id="app">
+    <div class="console">
+      <div class="hud">
+        <div class="hud-item"><span class="hud-label">MARIO</span><span id="hud-score" class="hud-value">000000</span></div>
+        <div class="hud-item"><span class="hud-label">&#9733;</span><span id="hud-coins" class="hud-value">00</span></div>
+        <div class="hud-item"><span class="hud-label">WORLD</span><span id="hud-world" class="hud-value">1-1</span></div>
+        <div class="hud-item"><span class="hud-label">TIME</span><span id="hud-time" class="hud-value">400</span></div>
+        <div class="hud-item"><span class="hud-label">LIVES</span><span id="hud-lives" class="hud-value">3</span></div>
+      </div>
+      <div class="screen-wrap">
+        <canvas id="screen" width="256" height="240"></canvas>
+        <div id="overlay" class="overlay">
+          <div id="overlay-title" class="overlay-title"></div>
+          <div id="overlay-body" class="overlay-body"></div>
+        </div>
+      </div>
+      <pre id="selftest-out">running…</pre>
+    </div>
+  </div>
+
+  <script src="../js/sprites.js"></script>
+  <script src="../js/audio.js"></script>
+  <script src="../js/levels.js"></script>
+  <script src="../js/game.js"></script>
+  <script src="../js/main.js"></script>
+  <script src="selftest.js"></script>
+</body>
+</html>
